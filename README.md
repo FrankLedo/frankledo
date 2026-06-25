@@ -10,6 +10,7 @@ from design through implementation and QA.
 
 ## What I'm working on
 
+- **[pdfnamer](https://github.com/frankledo/pdfnamer)** — CLI tool that renames and organizes PDF bills and statements by company and date using a config file. Available on npm as [`@frankledo/pdfnamer`](https://www.npmjs.com/package/@frankledo/pdfnamer)
 - **[markdown-pr-review](https://github.com/frankledo/markdown-pr-review)** — VSCode extension that overlays GitHub PR review comments on rendered Markdown previews
 - **[Buzzword Bingo](https://www.buzzwordbingogame.com/)** — Mark off corporate jargon on a randomly generated bingo card. Call SHENANIGANS when you hit five in a row.
 

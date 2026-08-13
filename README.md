@@ -1,6 +1,6 @@
 # Frank Ledo
 
-Principal Architect · Engineering Leader · Makes Things Go
+Distinguished Architect · Engineering Leader · Makes Things Go
 
 20+ years building adTech and marTech platforms at scale. Currently at [Acoustic](https://acoustic.com), 
 architecting event-driven marketing automation on AWS — and pioneering AI-assisted engineering workflows 
@@ -11,6 +11,7 @@ from design through implementation and QA.
 ## What I'm working on
 
 - **[pdfnamer](https://github.com/frankledo/pdfnamer)** — CLI tool that renames and organizes PDF bills and statements by company and date using a config file. Available on npm as [`@frankledo/pdfnamer`](https://www.npmjs.com/package/@frankledo/pdfnamer)
+- **[receiptnamer](https://github.com/frankledo/receiptnamer)** — CLI tool that names scanned receipt PDFs by reading the rendered image with a vision-language model (local Ollama or Anthropic API). Available on npm as [`@frankledo/receiptnamer`](https://www.npmjs.com/package/@frankledo/receiptnamer)
 - **[markdown-pr-review](https://github.com/frankledo/markdown-pr-review)** — VSCode extension that overlays GitHub PR review comments on rendered Markdown previews
 - **[Buzzword Bingo](https://www.buzzwordbingogame.com/)** — Mark off corporate jargon on a randomly generated bingo card. Call SHENANIGANS when you hit five in a row.
 

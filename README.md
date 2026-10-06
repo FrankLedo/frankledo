@@ -6,7 +6,7 @@ Distinguished Architect · Engineering Leader · Makes Things Go
 architecting event-driven marketing automation on AWS — and pioneering AI-assisted engineering workflows 
 from design through implementation and QA.
 
-3 patents. 30+ Claude Code skills built.
+3 patents. 
 
 ## What I'm working on
 
